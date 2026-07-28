@@ -1,0 +1,24 @@
+<svg width="1000" height="650" viewBox="0 0 1000 650" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="500" y1="0" x2="500" y2="650">
+      <stop stop-color="#78C5DA"/>
+      <stop offset="0.58" stop-color="#DDF2F6"/>
+      <stop offset="1" stop-color="#F9FCFC"/>
+    </linearGradient>
+    <linearGradient id="wing" x1="325" y1="470" x2="850" y2="345">
+      <stop stop-color="#B9C9CE"/>
+      <stop offset="0.5" stop-color="#F6FAFB"/>
+      <stop offset="1" stop-color="#9EB4BA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="650" fill="url(#sky)"/>
+  <g opacity="0.75" fill="white">
+    <ellipse cx="170" cy="390" rx="230" ry="45"/>
+    <ellipse cx="330" cy="410" rx="200" ry="38"/>
+    <ellipse cx="800" cy="350" rx="280" ry="50"/>
+  </g>
+  <path d="M135 596L828 312L928 326L516 579L135 596Z" fill="url(#wing)"/>
+  <path d="M828 312L900 212L927 326L828 312Z" fill="#E8F0F2"/>
+  <path d="M135 596L516 579" stroke="#839CA3" stroke-width="4"/>
+  <path d="M548 478L885 326" stroke="#1592A3" stroke-width="8"/>
+</svg>

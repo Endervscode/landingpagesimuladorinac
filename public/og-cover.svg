@@ -1,0 +1,56 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="92" y1="42" x2="1080" y2="620">
+      <stop stop-color="#08222C"/>
+      <stop offset="1" stop-color="#075D6C"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DDEBED"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#background)"/>
+
+  <g opacity="0.12" stroke="#A8EDF0">
+    <path d="M0 100H1200" stroke-dasharray="5 14"/>
+    <path d="M0 250H1200" stroke-dasharray="5 14"/>
+    <path d="M0 400H1200" stroke-dasharray="5 14"/>
+    <path d="M0 550H1200" stroke-dasharray="5 14"/>
+    <circle cx="1030" cy="90" r="250"/>
+  </g>
+
+  <g transform="translate(85 85)">
+    <rect width="58" height="58" rx="16" fill="#6DDCE2"/>
+    <path d="M15 31L43 20L35 31L44 38L39 41L30 35L24 46L20 45L22 33L15 31Z" fill="#08222C"/>
+    <text x="76" y="41" fill="white" font-family="Arial, sans-serif" font-size="31" font-weight="700">EstudiExám</text>
+  </g>
+
+  <text x="85" y="245" fill="#6DDCE2" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">SIMULADOR DE EXAMEN INAC</text>
+  <text x="85" y="316" fill="white" font-family="Arial, sans-serif" font-size="58" font-weight="700">Practica hoy.</text>
+  <text x="85" y="380" fill="white" font-family="Arial, sans-serif" font-size="58" font-weight="700">Presenta con confianza.</text>
+  <text x="85" y="438" fill="#B8CED2" font-family="Arial, sans-serif" font-size="24">Simulacros · Materias · Estadísticas · Repaso</text>
+
+  <g transform="translate(745 127) rotate(-3)">
+    <rect width="390" height="390" rx="22" fill="#03141A" opacity="0.35"/>
+    <rect x="-12" y="-12" width="390" height="390" rx="22" fill="url(#panel)"/>
+    <rect x="16" y="23" width="175" height="16" rx="8" fill="#0A7789" opacity="0.9"/>
+    <rect x="16" y="56" width="315" height="10" rx="5" fill="#9CB2B7"/>
+    <rect x="16" y="82" width="275" height="10" rx="5" fill="#C3D1D4"/>
+
+    <rect x="16" y="125" width="346" height="53" rx="10" fill="#FFFFFF" stroke="#BDD0D4"/>
+    <circle cx="48" cy="151" r="14" fill="#EAF6F7"/>
+    <text x="43" y="157" fill="#08798B" font-family="Arial" font-size="16" font-weight="700">A</text>
+
+    <rect x="16" y="190" width="346" height="53" rx="10" fill="#EAF8F4" stroke="#1D9A72"/>
+    <circle cx="48" cy="216" r="14" fill="#1D9A72"/>
+    <text x="43" y="222" fill="#FFFFFF" font-family="Arial" font-size="16" font-weight="700">B</text>
+
+    <rect x="16" y="255" width="346" height="53" rx="10" fill="#FFFFFF" stroke="#BDD0D4"/>
+    <circle cx="48" cy="281" r="14" fill="#EAF6F7"/>
+    <text x="43" y="287" fill="#08798B" font-family="Arial" font-size="16" font-weight="700">C</text>
+
+    <rect x="245" y="327" width="117" height="35" rx="8" fill="#08798B"/>
+    <text x="268" y="350" fill="#FFFFFF" font-family="Arial" font-size="14" font-weight="700">Siguiente</text>
+  </g>
+</svg>

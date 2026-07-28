@@ -1,0 +1,20 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.24" stroke="#2C8D9A">
+    <path d="M0 120H1200" stroke-dasharray="2 12"/>
+    <path d="M0 310H1200" stroke-dasharray="2 12"/>
+    <path d="M0 500H1200" stroke-dasharray="2 12"/>
+    <path d="M0 690H1200" stroke-dasharray="2 12"/>
+    <path d="M170 0V800" stroke-dasharray="2 12"/>
+    <path d="M410 0V800" stroke-dasharray="2 12"/>
+    <path d="M650 0V800" stroke-dasharray="2 12"/>
+    <path d="M890 0V800" stroke-dasharray="2 12"/>
+    <path d="M1130 0V800" stroke-dasharray="2 12"/>
+  </g>
+  <g opacity="0.18" stroke="#128697">
+    <circle cx="920" cy="230" r="118"/>
+    <circle cx="920" cy="230" r="80" stroke-dasharray="4 10"/>
+    <path d="M802 230H1038"/>
+    <path d="M920 112V348"/>
+    <path d="M160 640C330 480 496 510 660 382C808 266 906 90 1160 92" stroke-dasharray="6 12"/>
+  </g>
+</svg>
